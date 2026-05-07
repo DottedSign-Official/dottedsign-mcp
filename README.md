@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/dottedsign-official-dottedsign-mcp-badge.png)](https://mseep.ai/app/dottedsign-official-dottedsign-mcp)
+
 # DottedSign MCP
 
 Connect your AI assistant (Claude or ChatGPT) to DottedSign — create signing tasks, track document status, manage templates, and more using natural language.
