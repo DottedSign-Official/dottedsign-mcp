@@ -208,7 +208,7 @@ A. You can prompt in natural language, including English, 繁體中文, 日本�
 
 ## Resources & Support
 
-- Product page — [dottedsign.com/integrations/mcp](https://www.dottedsign.com/integrations/mcp/?utm_source=GitHub&utm_campaign=GitHub_Repo_DSMCP_MCP&utm_medium=Repo)
+- [Product page](https://www.dottedsign.com/integrations/mcp/?utm_source=GitHub&utm_campaign=GitHub_Repo_DSMCP_MCP&utm_medium=Repo)
 - [Help Center](https://support.dottedsign.com/hc?utm_source=GitHub&utm_campaign=GitHub_Repo_DSMCP_helpcenter&utm_medium=Repo) and [contact support](https://www.dottedsign.com/contact-cs/?utm_source=GitHub&utm_campaign=GitHub_Repo_DSMCP_contactus&utm_medium=Repo)
 - [Request a demo](https://www.dottedsign.com/request-demo/?utm_source=GitHub&utm_campaign=GitHub_Repo_DSMCP_requestdemo&utm_medium=Repo)
 - Also try **[KDAN PDF MCP](https://pdf-reader.kdandoc.com/products/mcp/claude?utm_source=GitHub&utm_campaign=GitHub_Repo_DSMCP_kdanpdfmcp&utm_medium=Repo)** for AI-driven PDF editing and redaction.
