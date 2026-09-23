@@ -202,13 +202,13 @@ A. You can prompt in natural language, including English, 繁體中文, 日本�
 - **Connector won't add / URL rejected** — double-check the URL is pasted exactly, with no trailing spaces.
 - **Authorization failed** — make sure you're logged in to DottedSign in the same browser, then retry.
 - **AI can't find a task** — refer to it by document name, or confirm it exists in your DottedSign account.
-- **Can't send a signing task on a free account** — the Free plan can't create document templates (the Pro plan includes only one), so template-based sending is blocked. Upgrade your plan to unlock full sending — see [pricing](https://www.dottedsign.com/pricing/).
+- **Can't send a signing task on a free account** — the Free plan can't create document templates (the Pro plan includes only one), so template-based sending is blocked. Upgrade your plan to unlock full sending — see [pricing](https://www.dottedsign.com/pricing/?utm_source=GitHub&utm_campaign=GitHub_Repo_DSMCP_pricing&utm_medium=Repo).
 
 ---
 
 ## Resources & Support
 
-- Product page — [dottedsign.com/integrations/mcp](https://www.dottedsign.com/integrations/mcp)
-- [Help Center](https://support.dottedsign.com/) and [contact support](https://www.dottedsign.com/contact-cs/)
-- [Request a demo](https://www.dottedsign.com/request-demo/)
-- Also try **[KDAN PDF MCP](https://pdf-reader.kdandoc.com/products/mcp/claude)** for AI-driven PDF editing and redaction.
+- Product page — [dottedsign.com/integrations/mcp](https://www.dottedsign.com/integrations/mcp/?utm_source=GitHub&utm_campaign=GitHub_Repo_DSMCP_MCP&utm_medium=Repo)
+- [Help Center](https://support.dottedsign.com/hc?utm_source=GitHub&utm_campaign=GitHub_Repo_DSMCP_helpcenter&utm_medium=Repo) and [contact support](https://www.dottedsign.com/contact-cs/?utm_source=GitHub&utm_campaign=GitHub_Repo_DSMCP_contactus&utm_medium=Repo)
+- [Request a demo](https://www.dottedsign.com/request-demo/?utm_source=GitHub&utm_campaign=GitHub_Repo_DSMCP_requestdemo&utm_medium=Repo)
+- Also try **[KDAN PDF MCP](https://pdf-reader.kdandoc.com/products/mcp/claude?utm_source=GitHub&utm_campaign=GitHub_Repo_DSMCP_kdanpdfmcp&utm_medium=Repo)** for AI-driven PDF editing and redaction.
